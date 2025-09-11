@@ -12,11 +12,8 @@ Welcome! This portfolio highlights my major data science projects and capstones.
 
  
 
-- **Capstone 3:** AI/Human Content Detection  
-    - [Documentation & Summary](https://github.com/tesfaj11/Capstone-3-Documentation)
-    - [Project Proposal](https://github.com/tesfaj11/Capstone-3-Project-Proposal)
-    - [Pre-processing & Model Code](https://github.com/tesfaj11/Capstone-3-Pre-processing-Work-and-Model)
-    - [Capstone-3-Documentation](https://github.com/tesfaj11/Capstone-3-Documentation)
+- **Capstone 3:** [AI-Human-Content-Detection-Capstone-Project](https://github.com/tesfaj11/AI-Human-Content-Detection-Capstone-Project)
+    
 
 ---
 
