@@ -6,9 +6,9 @@ Welcome! This portfolio highlights my major data science projects and capstones.
 
 ## Capstone Projects
 
-- **Capstone 1:** Big Mountain
+- **Capstone 1:** [Big-Mountain-Ski-Resort-Capstone-Project](https://github.com/tesfaj11/-Big-Mountain-Ski-Resort-Capstone-Project)
 
-- **Capstone 2:** California Housing Pricing 
+- **Capstone 2:** [California-Housing-Prices-Capstone-Project](https://github.com/tesfaj11/California-Housing-Prices-Capstone-Project)
 
  
 
@@ -40,5 +40,5 @@ Welcome! This portfolio highlights my major data science projects and capstones.
 - [App Ratings Case Study](https://github.com/tesfaj11/Tier-3-)
 - [frequentist-inference-case-study ](https://github.com/tesfaj11/frequentist-inference-case-study)
 - [weather-data-api-project](https://github.com/tesfaj11/weather-data-api-project1)
-- [Big Mountain GitHub-repo-Guided-Capstone-folder-](https://github.com/tesfaj11/GitHub-repo-Guided-Capstone-folder-/blob/main/Guided%20Capstone%20-%20Step%20Six.pdf), 
+ 
   
