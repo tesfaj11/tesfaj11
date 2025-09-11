@@ -18,16 +18,14 @@ Welcome! This portfolio highlights my major data science projects and capstones.
                - Conducted data exploration, feature engineering, and regression analysis.  
                - Identified income and location as the strongest predictors of housing prices. 
  
-
 - **Capstone 3:** [AI-Human-Content-Detection-Capstone-Project](https://github.com/tesfaj11/AI-Human-Content-Detection-Capstone-Project)
 
-   -Built classification models to distinguish between AI-generated and human-written content.  
-               - Applied natural language processing and feature extraction.  
-               - Explored applications for academic integrity, content moderation, and trust in digital media.  
+               - Built classification models to distinguish between AI-generated and human-written content.
+               - Applied natural language processing and feature extraction.
+               - Explored applications for academic integrity, content moderation, and trust in digital media.
 
 ---
     
-
 ---
 
 ## Other Projects
