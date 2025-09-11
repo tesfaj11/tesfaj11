@@ -7,12 +7,22 @@ Welcome! This portfolio highlights my major data science projects and capstones.
 ## Capstone Projects
 
 - **Capstone 1:** [Big-Mountain-Ski-Resort-Capstone-Project](https://github.com/tesfaj11/-Big-Mountain-Ski-Resort-Capstone-Project)
+               - Analyzed ski resort features (vertical drop, terrain, lifts, etc.) to predict ticket prices and evaluate Big Mountain’s market position.  
+               - Data wrangling, EDA, preprocessing, and regression modeling.  
+               - Delivered insights on pricing strategy and competitive landscape.
 
 - **Capstone 2:** [California-Housing-Prices-Capstone-Project](https://github.com/tesfaj11/California-Housing-Prices-Capstone-Project)
-
+               -Developed machine learning models to predict California housing values using census data.  
+               - Conducted data exploration, feature engineering, and regression analysis.  
+               - Identified income and location as the strongest predictors of housing prices. 
  
 
 - **Capstone 3:** [AI-Human-Content-Detection-Capstone-Project](https://github.com/tesfaj11/AI-Human-Content-Detection-Capstone-Project)
+               -Built classification models to distinguish between AI-generated and human-written content.  
+               - Applied natural language processing and feature extraction.  
+               - Explored applications for academic integrity, content moderation, and trust in digital media.  
+
+---
     
 
 ---
